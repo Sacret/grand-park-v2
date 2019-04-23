@@ -3,16 +3,43 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/normalize.css">
+    <link rel="stylesheet" href="/assets/css/skeleton.css">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Roboto" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
-    {% include navigation.html %}
-    <h1>{{ page.title }}</h1>
-    <section>
-      {{ content }}
-    </section>
-    <footer>
-      &copy; to me
-    </footer>
+    <div class="container">
+      <div class="row top">
+        <div class="nine columns">Гранд парк</div>
+        <div class="three columns">{% include navigation.html %}</div>
+      </div>
+    </div>
+    <div class="container">
+      <h2 class="title">{{ page.title }}</h2>
+    </div>
+    <div class="line"></div>
+    <div class="container" id="about">
+      <div class="salon">Салоны</div>
+      <div class="time">Ежедневно по предварительной записи с 10:00 до 21:00</div>
+    </div>
+    <div class="line"></div>
+    <div class="container">
+      <section>
+        {{ content }}
+      </section>
+    </div>
+    <div class="line"></div>
+    <div class="container" id="contact">
+      <div class="salon">Контакты</div>
+      {% include contacts.html %}
+    </div>
+    <div class="line"></div>
+    <div class="container">
+      <footer class="row">
+        <div class="ten columns">Гранд парк</div>
+        <div class="two columns">&copy; 2019</div>
+      </footer>
+    </div>
   </body>
 </html>
