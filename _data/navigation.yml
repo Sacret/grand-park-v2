@@ -1,6 +1,6 @@
-- name: О нас
-  link: /#about
+- name: Салоны
+  link: /
 - name: Контакты
-  link: /#contact
+  link: /contact.html
 - name: Прайс-лист
-  link: /#price
+  link: /price.html

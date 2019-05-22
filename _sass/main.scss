@@ -65,10 +65,6 @@ body {
   }
 }
 
-.current {
-  color: green;
-}
-
 .top {
   margin-top: 15px;
 }
@@ -80,6 +76,10 @@ body {
     color: $color-brand;
     text-decoration: none;
     margin-left: 15px;
+  }
+
+  a.current {
+    text-decoration: underline;
   }
 }
 
@@ -105,4 +105,22 @@ body {
 .subtitile {
   text-align: center;
   margin-top: 10px;
+}
+
+.contact-info {
+  margin-bottom: 30px;
+}
+
+.contact-column {
+  margin-top: 15px;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.footer {
+  padding: 15px 0;
+  margin-top: 15px;
+  border-top: 1px solid $color-brand;
 }
