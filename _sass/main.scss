@@ -22,8 +22,47 @@ body {
   text-align: center;
 }
 
+.salon-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 60px;
+  position: relative;
+
+  @media screen and (max-width: 500px) {
+    min-height: 400px;
+  }
+}
+
+.salon-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: auto;
+  background: #fff;
+  position: absolute;
+  top: 300px;
+  padding: 15px;
+
+  @media screen and (max-width: 500px) {
+    width: 200px;
+    top: 200px;
+  }
+}
+
 .image {
-  width: 100%;
+  width: 500px;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+
+  @media screen and (max-width: 500px) {
+    width: 300px;
+    height: 300px;
+  }
 }
 
 .current {
@@ -45,10 +84,10 @@ body {
 }
 
 .line {
-  width: 100%;
+  width: 90%;
   height: 1px;
   border-bottom: 1px solid $color-brand;
-  margin: 15px 0;
+  margin: 15px auto;
 }
 
 .salon-title {
@@ -61,4 +100,9 @@ body {
 .contact {
   display: flex;
   flex-direction: column;
+}
+
+.subtitile {
+  text-align: center;
+  margin-top: 10px;
 }

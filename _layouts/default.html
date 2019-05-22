@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/normalize.css">
     <link rel="stylesheet" href="/assets/css/skeleton.css">
@@ -11,8 +12,7 @@
   <body>
     <div class="container">
       <div class="row top">
-        <div class="nine columns">Гранд парк</div>
-        <div class="three columns">{% include navigation.html %}</div>
+        {% include navigation.html %}
       </div>
     </div>
     <div class="container">
@@ -20,8 +20,8 @@
     </div>
     <div class="line"></div>
     <div class="container" id="about">
-      <div class="salon">Салоны</div>
-      <div class="time">Ежедневно по предварительной записи с 10:00 до 21:00</div>
+      <div class="salon">Наши салоны</div>
+      <div class="time">Мы работаем каждый день с 10:00 до 21:00</div>
     </div>
     <div class="line"></div>
     <div class="container">
