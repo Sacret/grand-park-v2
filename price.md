@@ -5,6 +5,68 @@ title: Прайс-лист | Центр красоты и здоровья "Гр
 
 <div class="container">
   <h4>КОСМЕТИЧЕСКИЕ УСЛУГИ</h4>
+  <h5>Безоперационный SMAS лифтинг (метод HI-FU)</h5>
+  <div class="row">
+    <div class="six columns">Периорбитальная зона</div>
+    <div class="six columns">
+      <div align="right" class="price">15 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">Зона лба</div>
+    <div class="six columns">
+      <div align="right" class="price">15 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">Надбровные зоны с височными областями</div>
+    <div class="six columns">
+      <div align="right" class="price">15 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">Подчелюстная зона и зона втрого пдбородка</div>
+    <div class="six columns">
+      <div align="right" class="price">15 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">Нижняя треть лица, подчелюстная зона, зона второго подбородка</div>
+    <div class="six columns">
+      <div align="right" class="price">43 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">Шея </div>
+    <div class="six columns">
+      <div align="right" class="price">43 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">Декольте </div>
+    <div class="six columns">
+      <div align="right" class="price">43 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">Средняя и нижняя треть лица, подчелюстная зона, зона второго подбородка</div>
+    <div class="six columns">
+      <div align="right" class="price">69 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">Лицо полностью</div>
+    <div class="six columns">
+      <div align="right" class="price">69 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">Лицо полностью, подчелюстная зона, зона второго подбородка</div>
+    <div class="six columns">
+      <div align="right" class="price">75 000 руб</div>
+    </div>
+  </div>
+  <br>
   <h5>Ботулинотерапия</h5>
   <div class="row">
     <div class="six columns">Устранение морщин с помощью препарата Ботокс Botox Allergan (США) 1ед</div>
