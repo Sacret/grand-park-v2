@@ -248,4 +248,87 @@ title: Прайс-лист | Центр красоты и здоровья "Гр
       <div align="right" class="price">1500 руб</div>
     </div>
   </div>
+  <br>
+  <h4>Инъекции собственной плазмы</h4>
+  <h5>Плазмолифтинг</h5>
+  <div class="row">
+    <div class="six columns"><i>1 пробирка + Стерильный набор</i></div>
+    <div class="six columns">
+      <div align="right" class="price">3 350 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns"><i>2 пробирки + Стерильный набор</i></div>
+    <div class="six columns">
+      <div align="right" class="price">5 350 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns"><i>3 пробирки + Стерильный набор</i></div>
+    <div class="six columns">
+      <div align="right" class="price">6 350 руб</div>
+    </div>
+  </div>
+  <br>
+  <h5>Регенеративное клеточное омоложение PRP терапия + Плазмотерапия</h5>
+  <div class="row">
+    <div class="six columns"><i>1 пробирка</i></div>
+    <div class="six columns">
+      <div align="right" class="price">13 300 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns"><i>2 пробирки</i></div>
+    <div class="six columns">
+      <div align="right" class="price">26 600 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns"><i>3 пробирки</i></div>
+    <div class="six columns">
+      <div align="right" class="price">39 900 руб</div>
+    </div>
+  </div>
+  <br>
+  <h5>Биофиллер (Аутофиллер)</h5>
+  <div class="row">
+    <div class="six columns"><i>1 пробирка</i></div>
+    <div class="six columns">
+      <div align="right" class="price">28 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns"><i>2 пробирки</i></div>
+    <div class="six columns">
+      <div align="right" class="price">56 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns"><i>3 пробирки</i></div>
+    <div class="six columns">
+      <div align="right" class="price">84 000 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns"><i>Канюля</i></div>
+    <div class="six columns">
+      <div align="right" class="price">500 руб</div>
+    </div>
+  </div>
+  <br>
+  <h4>ТРИХОЛОГИЯ-ВОССТАНОВЛЕНИЕ ВОЛОС</h4>
+  <h5>PRP терапия волосистой части головы</h5>
+  <div class="row">
+    <div class="six columns"><i>1 пробирка</i></div>
+    <div class="six columns">
+      <div align="right" class="price">13 300 руб</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns"><i>2 пробирки</i></div>
+    <div class="six columns">
+      <div align="right" class="price">26 600 руб</div>
+    </div>
+  </div>
+  <br>
 </div>
